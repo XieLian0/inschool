@@ -1,0 +1,47 @@
+body{
+    background-color: darkorchid;
+}
+h1{
+    text-align: center;
+    color: rgb(46, 16, 75);
+}
+#lorem{
+    display:block;
+    width: 30%;
+    border: 2px solid black;
+
+}
+img{
+    margin-left: 35%;
+    margin-top: -16%;
+    display: block;
+    width: 30%;
+}
+#in-fi{
+    display: block;
+    margin-left: 76%;
+    margin-top: -33%;
+    font-size: 20px;
+
+}
+b{
+    margin-left: 25%;
+}
+
+
+audio{
+    display: block;
+    margin-left: 75%;
+}
+#param{
+    font-size: 30px;
+    margin-left: 35%;
+    margin-top: 30%;
+}
+
+video{
+    width: 70%;
+    height: 40%;
+    margin-top: 1%;
+    margin-left: 14%;
+}
